@@ -41,24 +41,7 @@ class _MyAppState extends State<MyApp> {
   initState() {
     super.initState();
     initTts();
-    iosSettings();
-  }
-
-  void iosSettings() async {
-    if(Platform.isIOS) {
-      setState(() async {
-        await flutterTts.setSharedInstance(true);
-        await flutterTts.setIosAudioCategory(IosTextToSpeechAudioCategory.ambient,
-            [
-              IosTextToSpeechAudioCategoryOptions.allowBluetooth,
-              IosTextToSpeechAudioCategoryOptions.allowBluetoothA2DP,
-              IosTextToSpeechAudioCategoryOptions.mixWithOthers
-            ],
-            IosTextToSpeechAudioMode.voicePrompt
-        );
-        await flutterTts.awaitSpeakCompletion(true);
-      });
-    }
+    
   }
 
   initTts() {
