@@ -11,7 +11,8 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  flutter_tts: ^3.3.3
+  path_provider: ^2.0.10
+  pdf: ^3.8.1
 
 dev_dependencies:
   flutter_test:
@@ -25,6 +26,7 @@ flutter:
 
   assets:
     - assets/sound/
+    - assets/file/
   #   - images/a_dot_ham.jpeg
 
   # fonts:
