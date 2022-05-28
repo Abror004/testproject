@@ -1,0 +1,1113 @@
+{
+  "document": {
+    "pageCount": "1",
+    "pageCountWithOCRPerformed": "0",
+    "page": {
+      "index": "0",
+      "width": "595.200012207031",
+      "height": "841.919982910156",
+      "OCRWasPerformed": "False",
+      "row": [
+        {
+          "column": [
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Bold",
+                "color": "#1F2021",
+                "x": "84.98",
+                "y": "55.46",
+                "width": "107.57",
+                "height": "10.56",
+                "text": "Silovsin (Lynx lynx) —"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Underline",
+                "color": "#1F2021",
+                "x": "195.49",
+                "y": "55.46",
+                "width": "114.95",
+                "height": "10.56",
+                "text": "mushuksimonlar oilasiga"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "313.08",
+                "y": "55.46",
+                "width": "37.30",
+                "height": "10.56",
+                "text": "mansub"
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Underline",
+                "color": "#1F2021",
+                "x": "353.48",
+                "y": "55.46",
+                "width": "100.31",
+                "height": "10.56",
+                "text": "sut emizuvchi hayvon"
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "453.77",
+                "y": "55.46",
+                "width": "2.94",
+                "height": "10.56",
+                "text": "."
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Underline",
+                "color": "#1F2021",
+                "x": "459.59",
+                "y": "55.46",
+                "width": "51.32",
+                "height": "10.56",
+                "text": "Tanasining"
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "513.79",
+                "y": "55.46",
+                "width": "13.92",
+                "height": "10.56",
+                "text": "uz."
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "84.98",
+                "y": "68.90",
+                "width": "272.69",
+                "height": "10.56",
+                "text": "82—109 sm, dumi 20—40 sm, vazni 8—19 (baʼzan 32) kg."
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Underline",
+                "color": "#1F2021",
+                "x": "360.68",
+                "y": "68.90",
+                "width": "53.73",
+                "height": "10.56",
+                "text": "Quloqlarida"
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "417.29",
+                "y": "68.90",
+                "width": "112.24",
+                "height": "10.56",
+                "text": "bir tutam uzun tuklardan"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "84.98",
+                "y": "81.86",
+                "width": "90.66",
+                "height": "10.56",
+                "text": "iborat shokilasi bor."
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Underline",
+                "color": "#1F2021",
+                "x": "178.69",
+                "y": "81.86",
+                "width": "41.01",
+                "height": "10.56",
+                "text": "Moʻynasi"
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "222.58",
+                "y": "81.86",
+                "width": "265.47",
+                "height": "10.56",
+                "text": "kalin va yumshoq, malla yoki qizgʻishsariq, baʼzan xoldor."
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Underline",
+                "color": "#1F2021",
+                "x": "491.29",
+                "y": "81.86",
+                "width": "45.85",
+                "height": "10.56",
+                "text": "Yevrosiyo"
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "537.10",
+                "y": "81.86",
+                "width": "2.88",
+                "height": "10.56",
+                "text": ","
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "84.98",
+                "y": "94.82",
+                "width": "38.72",
+                "height": "10.56",
+                "text": "Amerika"
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Underline",
+                "color": "#1F2021",
+                "x": "126.59",
+                "y": "94.82",
+                "width": "57.81",
+                "height": "10.56",
+                "text": "oʻrmonlarida"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "184.39",
+                "y": "94.82",
+                "width": "279.97",
+                "height": "10.56",
+                "text": ", baʼzan oʻrmon choʻllarida tarqalgan. Oʻzbekiston janubidagi"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Underline",
+                "color": "#1F2021",
+                "x": "467.51",
+                "y": "94.82",
+                "width": "48.44",
+                "height": "10.56",
+                "text": "togʻlarning"
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "518.83",
+                "y": "94.82",
+                "width": "20.37",
+                "height": "10.56",
+                "text": "oʻrta"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "84.98",
+                "y": "107.78",
+                "width": "450.60",
+                "height": "10.56",
+                "text": "va yuqori qismida uchraydi. Asosan, tunda faol. Yanvar—mart oylarida juftlashadi. May — iyunda"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "84.98",
+                "y": "121.01",
+                "width": "44.14",
+                "height": "10.56",
+                "text": "bolalaydi."
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Underline",
+                "color": "#1F2021",
+                "x": "132.11",
+                "y": "121.01",
+                "width": "32.84",
+                "height": "10.56",
+                "text": "Bolalar"
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "167.83",
+                "y": "121.01",
+                "width": "109.66",
+                "height": "10.56",
+                "text": "2—3 yilda jinsiy voyaga"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "84.98",
+                "y": "133.97",
+                "width": "30.73",
+                "height": "10.56",
+                "text": "yetadi."
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Underline",
+                "color": "#1F2021",
+                "x": "118.67",
+                "y": "133.97",
+                "width": "31.00",
+                "height": "10.56",
+                "text": "Quyon"
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "149.57",
+                "y": "133.97",
+                "width": "2.94",
+                "height": "10.56",
+                "text": ","
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Underline",
+                "color": "#1F2021",
+                "x": "155.39",
+                "y": "133.97",
+                "width": "36.20",
+                "height": "10.56",
+                "text": "sichqon"
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "194.47",
+                "y": "133.97",
+                "width": "19.37",
+                "height": "10.56",
+                "text": "kabi"
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Underline",
+                "color": "#1F2021",
+                "x": "216.85",
+                "y": "133.97",
+                "width": "61.97",
+                "height": "10.56",
+                "text": "kemiruvchilar"
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "278.98",
+                "y": "133.97",
+                "width": "2.94",
+                "height": "10.56",
+                "text": ","
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Underline",
+                "color": "#1F2021",
+                "x": "284.82",
+                "y": "133.97",
+                "width": "34.38",
+                "height": "10.56",
+                "text": "qushlar"
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "319.32",
+                "y": "133.97",
+                "width": "2.94",
+                "height": "10.56",
+                "text": ","
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Underline",
+                "color": "#1F2021",
+                "x": "325.14",
+                "y": "133.97",
+                "width": "41.96",
+                "height": "10.56",
+                "text": "tuyoqlilar"
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "369.74",
+                "y": "133.97",
+                "width": "180.28",
+                "height": "10.56",
+                "text": "bilan oziklanadi. Soki uzluksiz kamayib"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "84.98",
+                "y": "146.93",
+                "width": "421.65",
+                "height": "21.12",
+                "text": "borayapti. \"Yoʻq boʻlib ketishxavfi ostidagi yovvoyi fauna va flora turlarining xalqdrosavdosi"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "84.98",
+                "y": "160.13",
+                "width": "362.92",
+                "height": "10.56",
+                "text": "toʻgʻrisida\"gi Konvensiya (SGGE5)ning 1ilovasiga va Oʻzbekiston Respublikasi"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Underline",
+                "color": "#1F2021",
+                "x": "451.43",
+                "y": "160.13",
+                "width": "20.30",
+                "height": "10.56",
+                "text": "Qizil"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "fontStyle": "Underline",
+                "color": "#0545AC",
+                "x": "84.98",
+                "y": "173.33",
+                "width": "36.27",
+                "height": "10.56",
+                "text": "kitobiga"
+              }
+            },
+            {
+              "text": {
+                "fontName": "Arial",
+                "fontSize": "11.0",
+                "color": "#1F2021",
+                "x": "124.13",
+                "y": "173.33",
+                "width": "41.54",
+                "height": "10.56",
+                "text": "kiritilgan."
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "annotation": [
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "193.08",
+          "y": "56.70001",
+          "width": "80.93999",
+          "height": "13.02997",
+          "text": "https://uz.wikipedia.org/wiki/Mushuksimonlar"
+        },
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "272.44",
+          "y": "56.70001",
+          "width": "40.10001",
+          "height": "13.02997",
+          "text": "https://uz.wikipedia.org/wiki/Oila_(biologiya)"
+        },
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "351.23",
+          "y": "56.70001",
+          "width": "104.88",
+          "height": "13.02997",
+          "text": "https://uz.wikipedia.org/wiki/Sut_emizuvchilar"
+        },
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "457.45",
+          "y": "56.70001",
+          "width": "55.85999",
+          "height": "13.02997",
+          "text": "https://uz.wikipedia.org/wiki/Tana"
+        },
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "358.27",
+          "y": "69.72998",
+          "width": "58.20001",
+          "height": "13.03003",
+          "text": "https://uz.wikipedia.org/wiki/Quloq"
+        },
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "176.18",
+          "y": "82.76001",
+          "width": "45.93001",
+          "height": "13.02997",
+          "text": "https://uz.wikipedia.org/wiki/Mo%CA%BByna"
+        },
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "488.98",
+          "y": "82.76001",
+          "width": "50.60001",
+          "height": "13.02997",
+          "text": "https://uz.wikipedia.org/wiki/Yevrosiyo"
+        },
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "124.23",
+          "y": "95.78998",
+          "width": "62.27",
+          "height": "13.03003",
+          "text": "https://uz.wikipedia.org/wiki/O%CA%BBrmon"
+        },
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "465.09",
+          "y": "95.78998",
+          "width": "52.94998",
+          "height": "13.03003",
+          "text": "https://uz.wikipedia.org/wiki/Tog%CA%BBlar"
+        },
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "130.08",
+          "y": "121.85",
+          "width": "37.19",
+          "height": "13.03003",
+          "text": "https://uz.wikipedia.org/wiki/Bola"
+        },
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "116.65",
+          "y": "134.88",
+          "width": "35.43999",
+          "height": "13.02997",
+          "text": "https://uz.wikipedia.org/wiki/Quyon_(hayvon)"
+        },
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "153.42",
+          "y": "134.88",
+          "width": "40.69",
+          "height": "13.02997",
+          "text": "https://uz.wikipedia.org/wiki/Sichqon"
+        },
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "214.71",
+          "y": "134.88",
+          "width": "66.34999",
+          "height": "13.02997",
+          "text": "https://uz.wikipedia.org/wiki/Kemiruvchilar"
+        },
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "282.39",
+          "y": "134.88",
+          "width": "38.93997",
+          "height": "13.02997",
+          "text": "https://uz.wikipedia.org/wiki/Qushlar"
+        },
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "322.66",
+          "y": "134.88",
+          "width": "46.53",
+          "height": "13.02997",
+          "text": "https://uz.wikipedia.org/wiki/Tuyoqlilar"
+        },
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "448.96",
+          "y": "160.94",
+          "width": "106.09",
+          "height": "13.02997",
+          "text": "https://uz.wikipedia.org/wiki/Qizil_kitob"
+        },
+        {
+          "type": "Link",
+          "name": "",
+          "title": "",
+          "x": "82.8",
+          "y": "173.97",
+          "width": "40.68999",
+          "height": "21.03003",
+          "text": "https://uz.wikipedia.org/wiki/Qizil_kitob"
+        }
+      ]
+    }
+  }
+}
